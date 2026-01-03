@@ -1,0 +1,87 @@
+feedback,sentiment
+"I love this AI class",Positive
+"The lesson was okay",Neutral
+"This topic is confusing",Negative
+"Python is fun and exciting",Positive
+"I did not enjoy the class",Negative
+"The instructor explained things clearly",Positive
+"The pace of the class was fine",Neutral
+"I feel lost during the exercises",Negative
+"This course makes me excited to learn more",Positive
+"The examples were average",Neutral
+"The content was too difficult",Negative
+"I enjoyed the hands-on practice",Positive
+"The class was neither good nor bad",Neutral
+"I struggled to understand the concepts",Negative
+"Learning AI has been very interesting",Positive
+"The slides were just okay",Neutral
+"The explanations were poor",Negative
+"This lesson boosted my confidence",Positive
+"The material was repetitive",Neutral
+"I feel overwhelmed by the topic",Negative
+"The teacher was very engaging",Positive
+"The class met my expectations",Neutral
+"I was bored throughout the session",Negative
+"Programming is becoming easier for me",Positive
+"The lesson was acceptable",Neutral
+"I dislike how fast the class moves",Negative
+"I am happy with what I learned today",Positive
+"The content was normal",Neutral
+"The assignment instructions were unclear",Negative
+"This training is very useful",Positive
+"The class was manageable",Neutral
+"I feel frustrated with this topic",Negative
+"I am enjoying learning Python",Positive
+"The session was not too exciting",Neutral
+"I find this subject very difficult",Negative
+"The examples helped me understand better",Positive
+"The class was just fine",Neutral
+"I did not understand anything today",Negative
+"This course is well structured",Positive
+"The lesson was average",Neutral
+"The teaching style did not work for me",Negative
+"I feel motivated to keep learning",Positive
+"The content was neither hard nor easy",Neutral
+"I am confused about the assignment",Negative
+"This is one of the best classes I have taken",Positive
+"The lesson was ordinary",Neutral
+"I feel discouraged by this topic",Negative
+"The explanations were very helpful",Positive
+"The class was okay overall",Neutral
+"I am not satisfied with the lesson",Negative
+"This class is improving my skills",Positive
+"The pacing was reasonable",Neutral
+"I find the lessons frustrating",Negative
+"I really like how the course is taught",Positive
+"The content was standard",Neutral
+"I do not enjoy learning this subject",Negative
+"This training is worth my time",Positive
+"The lesson met the basic requirements",Neutral
+"I am struggling to keep up",Negative
+"I feel confident writing Python code now",Positive
+"The class was nothing special",Neutral
+"I feel confused most of the time",Negative
+"This AI course is very engaging",Positive
+"The lesson was fair",Neutral
+"I feel lost without more examples",Negative
+"I enjoy the practical exercises",Positive
+"The class was decent",Neutral
+"I am disappointed with the explanations",Negative
+"This lesson made things clearer",Positive
+"The content was acceptable",Neutral
+"I am unhappy with my progress",Negative
+"I like the way concepts are broken down",Positive
+"The session was moderate",Neutral
+"I feel stressed during this class",Negative
+"This course is helping my career goals",Positive
+"The lesson was fine",Neutral
+"I find the teaching confusing",Negative
+"I am excited to attend the next class",Positive
+"The class felt routine",Neutral
+"I am not comfortable with the topic yet",Negative
+"This was a productive learning session",Positive
+"The lesson was satisfactory",Neutral
+"I feel disconnected from the material",Negative
+"I am learning a lot from this course",Positive
+"The class experience was normal",Neutral
+"I do not understand the fundamentals",Negative
